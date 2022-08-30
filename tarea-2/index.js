@@ -68,26 +68,4 @@ function calcularPedido() {
 calcularPedido();
 
 
-// function pedido() {
-//     while (cantidad >= 50) {
-//         switch (cantidad) {
-//             case "bocadito1":
-//                 let pedido1 = precio1 * cantidad;
-//                 continue;
-//             case "bocadito2":
-//                 let pedido2 = precio2 * cantidad;
-//                 continue;
-//             case "bocadito3":
-//                 let pedido3 = precio3 * cantidad;
-
-//         }
-//         let totalbocadito = pedido1 + pedido2 + pedido3;
-//         alert(totalbocadito)
-//     }
-// }
-// let cantidad = prompt("ingrese cantidad que desea");
-// let precio1 = 0.8;
-// let precio2 = 1;
-// let precio3 = 1.2;
-
 
